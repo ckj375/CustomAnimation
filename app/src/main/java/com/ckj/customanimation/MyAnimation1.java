@@ -38,4 +38,5 @@ public class MyAnimation1 extends Animation {
             matrix.preScale(7.5f*(1-interpolatedTime),0.01f,halfWidth,halfHeight);
         }
     }
+
 }
